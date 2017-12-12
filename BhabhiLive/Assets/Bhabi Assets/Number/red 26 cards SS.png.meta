@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: b6307d1e2dc7d7e4aa2770e5554711ec
+timeCreated: 1506183814
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: red 26 cards SS_0
+    21300002: red 26 cards SS_1
+    21300004: red 26 cards SS_2
+    21300006: red 26 cards SS_3
+    21300008: red 26 cards SS_4
+    21300010: red 26 cards SS_5
+    21300012: red 26 cards SS_6
+    21300014: red 26 cards SS_7
+    21300016: red 26 cards SS_8
+    21300018: red 26 cards SS_9
+    21300020: red 26 cards SS_10
+    21300022: red 26 cards SS_11
+    21300024: red 26 cards SS_12
+    21300026: red 26 cards SS_13
+    21300028: red 26 cards SS_14
+    21300030: red 26 cards SS_15
+    21300032: red 26 cards SS_16
+    21300034: red 26 cards SS_17
+    21300036: red 26 cards SS_18
+    21300038: red 26 cards SS_19
+    21300040: red 26 cards SS_20
+    21300042: red 26 cards SS_21
+    21300044: red 26 cards SS_22
+    21300046: red 26 cards SS_23
+    21300048: red 26 cards SS_24
+    21300050: red 26 cards SS_25
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red 26 cards SS_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 787
+        width: 204
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 788
+        width: 193
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 785
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 791
+        width: 195
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 789
+        width: 187
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_5
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 787
+        width: 196
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_6
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 788
+        width: 196
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_7
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 786
+        width: 196
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 435
+        width: 197
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_9
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 436
+        width: 196
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_10
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 432
+        width: 201
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_11
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 433
+        width: 198
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_12
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 436
+        width: 197
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_13
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 437
+        width: 195
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_14
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 438
+        width: 196
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_15
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 437
+        width: 200
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_16
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 433
+        width: 195
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 200
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 37
+        width: 197
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 41
+        width: 207
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_20
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 39
+        width: 192
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_21
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 44
+        width: 198
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_22
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 39
+        width: 205
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_23
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 41
+        width: 201
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_24
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 43
+        width: 200
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: red 26 cards SS_25
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 41
+        width: 200
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

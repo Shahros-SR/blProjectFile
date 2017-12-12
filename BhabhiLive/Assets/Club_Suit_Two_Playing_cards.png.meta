@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 6a1bfd1bdaa97fa4c8392bf805a106bc
+timeCreated: 1506181516
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Club_Suit_Two_Playing_cards_0
+    21300002: Club_Suit_Two_Playing_cards_1
+    21300004: Club_Suit_Two_Playing_cards_2
+    21300006: Club_Suit_Two_Playing_cards_3
+    21300008: Club_Suit_Two_Playing_cards_4
+    21300010: Club_Suit_Two_Playing_cards_5
+    21300012: Club_Suit_Two_Playing_cards_6
+    21300014: Club_Suit_Two_Playing_cards_7
+    21300016: Club_Suit_Two_Playing_cards_8
+    21300018: Club_Suit_Two_Playing_cards_9
+    21300020: Club_Suit_Two_Playing_cards_10
+    21300022: Club_Suit_Two_Playing_cards_11
+    21300024: Club_Suit_Two_Playing_cards_12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1002
+        width: 285
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1002
+        width: 286
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_2
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1002
+        width: 284
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_3
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1002
+        width: 286
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_4
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1002
+        width: 285
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 284
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 514
+        width: 286
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 514
+        width: 284
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_8
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 514
+        width: 286
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_9
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 514
+        width: 285
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_10
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 286
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 285
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Club_Suit_Two_Playing_cards_12
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 0
+        width: 287
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
